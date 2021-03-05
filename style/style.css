@@ -1,0 +1,33 @@
+.navbar {
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.navbar img {
+  height: 3rem;
+}
+
+.caro {
+  background-image: url("/img/bg-1.png");
+  background-color: #eeeeee;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.container {
+  margin-top: 5rem;
+}
+
+.cat {
+  border-radius: 1rem;
+  padding: 1rem;
+  -webkit-box-shadow: 5px 5px 10px lightgray;
+          box-shadow: 5px 5px 10px lightgray;
+}
+
+.border-5 {
+  width: 15%;
+}
+/*# sourceMappingURL=style.css.map */
